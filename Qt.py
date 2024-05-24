@@ -967,6 +967,7 @@ _misplaced_members = {
         ],
         "QtWidgets.QStyleOptionViewItem": "QtCompat.QStyleOptionViewItemV4",
         "QtSvgWidgets.QSvgWidget": "QtSvgWidgets.QSvgWidget",
+        "QtSvgWidgets.QSvgWidget": "QtSvg.QSvgWidget",
     },
     "PySide2": {        
         "QtWidgets.QUndoCommand": "QtWidgets.QUndoCommand",
@@ -1006,6 +1007,7 @@ _misplaced_members = {
         ],
         "QtWidgets.QStyleOptionViewItem": "QtCompat.QStyleOptionViewItemV4",
         "QtSvg.QSvgWidget": "QtSvgWidgets.QSvgWidget",
+        "QtSvg.QSvgWidget": "QtSvg.QSvgWidget",
     },
     "PyQt5": {
         "QtWidgets.QUndoCommand": "QtWidgets.QUndoCommand",
